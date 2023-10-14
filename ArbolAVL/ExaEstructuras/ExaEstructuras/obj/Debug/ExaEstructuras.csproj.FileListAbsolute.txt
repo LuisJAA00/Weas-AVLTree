@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\bin\Debug\ExaEstructuras.exe.config
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\bin\Debug\ExaEstructuras.exe
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\bin\Debug\ExaEstructuras.pdb
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\App.g.cs
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras_MarkupCompile.cache
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras_MarkupCompile.lref
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.g.resources
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.Properties.Resources.resources
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.exe
+C:\Users\User\OneDrive - Fundacion Universidad de las Americas Puebla\Programas\10\Mates discretas\ExaEstructuras\ExaEstructuras\obj\Debug\ExaEstructuras.pdb
